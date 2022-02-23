@@ -1,0 +1,13 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.table1 {
+  border-collapse: collapse;
+}
+
+#id1 th {
+  background-color: aquamarine;
+}
